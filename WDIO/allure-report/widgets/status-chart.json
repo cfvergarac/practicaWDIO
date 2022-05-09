@@ -1,0 +1,51 @@
+[ {
+  "uid" : "1dcc1190a99b6367",
+  "name" : "Open URL && assert title",
+  "time" : {
+    "start" : 1651757039952,
+    "stop" : 1651757050785,
+    "duration" : 10833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d48dfa66e838ff53",
+  "name" : "Get text of all menu items",
+  "time" : {
+    "start" : 1651757071579,
+    "stop" : 1651757080004,
+    "duration" : 8425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e346934f248eef66",
+  "name" : "Working with iframe",
+  "time" : {
+    "start" : 1651757057444,
+    "stop" : 1651757066792,
+    "duration" : 9348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0a38e5407fa74e7",
+  "name" : "Click started button",
+  "time" : {
+    "start" : 1651757050785,
+    "stop" : 1651757051249,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44accdf10db94223",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1651757026801,
+    "stop" : 1651757034090,
+    "duration" : 7289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 05 08:23:59 COT 2022","Thu May 05 08:24:10 COT 2022","10833","","Home","","Home","Open URL && assert title","Open URL && assert title",""
+"passed","Thu May 05 08:24:31 COT 2022","Thu May 05 08:24:40 COT 2022","8425","","Navigation menu","","Navigation menu","Get text of all menu items","Get text of all menu items",""
+"passed","Thu May 05 08:24:17 COT 2022","Thu May 05 08:24:26 COT 2022","9348","","iframe","","iframe","Working with iframe","Working with iframe",""
+"passed","Thu May 05 08:24:10 COT 2022","Thu May 05 08:24:11 COT 2022","464","","Home","","Home","Click started button","Click started button",""
+"passed","Thu May 05 08:23:46 COT 2022","Thu May 05 08:23:54 COT 2022","7289","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
